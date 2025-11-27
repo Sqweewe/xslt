@@ -1,0 +1,21 @@
+
+<root>
+    <course>
+        <name>XML технологии</name>
+        <teacher>Борисов И.О.</teacher>
+        <topic>XML</topic>
+        <topic>XSLT</topic>
+    </course>
+
+    <course>
+        <name>Веб-разработка</name>
+        <teacher>Борисов И.О.</teacher>
+        <topic>HTML</topic>
+    </course>
+
+    <course>
+        <name>Программирование на PHP</name>
+        <teacher>Иванов А.А.</teacher>
+        <topic>XML</topic>
+    </course>
+</root>
